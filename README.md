@@ -1,6 +1,6 @@
-# Thesis Result Analysis Utilities
+# Analysis Utilities
 
-This repository provides selected Python utilities for organizing and analyzing experimental results from a thesis-related time-series forecasting and backtesting study.
+This repository provides selected Python utilities for organizing and analyzing experimental results from a time-series forecasting and backtesting study.
 
 The full training pipeline, proprietary feature construction, model architecture details, pretrained checkpoints, and complete trading strategy logic are omitted from the public version.
 
